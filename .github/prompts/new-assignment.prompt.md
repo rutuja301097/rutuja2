@@ -1,7 +1,9 @@
 ---
+name: Create-new-assignment
 agent: agent
 description: Create a new programming homework assignment
 argument-hint: Provide assignment details
+model: GPT-5.2
 ---
 
 # Create New Programming Assignment
